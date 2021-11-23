@@ -1,0 +1,12 @@
+# Django #
+__pycache__
+
+
+
+# PyCharm #
+.idea/
+
+
+# Environments
+env/
+venv
